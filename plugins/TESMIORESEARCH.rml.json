@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "tesmio.tesmioresearch",
+  "name": "TESMIORESEARCH",
+  "version": "0.3.1",
+  "description": "Numeric controls for existing research; no expanded research tree. TESMIO API 4; packaged for TESMIO and RML.",
+  "dll": "TESMIORESEARCH.dll",
+  "loaderApi": {
+    "min": 1,
+    "max": 1
+  },
+  "supportedGameVersions": [
+    "1.1.1.9"
+  ],
+  "requiredSymbols": [],
+  "optionalSymbols": [],
+  "dependencies": [],
+  "conflicts": [],
+  "loadBefore": [],
+  "loadAfter": [
+    "tesmio.tesmioindustry"
+  ],
+  "defaultPriority": 1400,
+  "enabledByDefault": true
+}
