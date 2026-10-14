@@ -1,0 +1,15 @@
+{
+  "mod": "TESMIORESEARCH",
+  "build_passed": true,
+  "machine_code_identical": true,
+  "binary_identical_except_timestamps": true,
+  "timestamp_offsets": [
+    "0x110",
+    "0x4e9d4"
+  ],
+  "original_sha256": "6746d8057e2abe095c8c7e34e9eb4aca7848c1e00ab3fdd6150018fcf7e51c20",
+  "rebuilt_sha256": "0671fd12024bce04154d011020ffe8a9c5541498d66807f8bdc0148b2608800c",
+  "normalized_sha256": "cb3d5f33159987b49571af9d57cda4ba47e7e9bedaaf860156da78eef138d426",
+  "native_regression": "not run",
+  "live_game_test": "not run"
+}
